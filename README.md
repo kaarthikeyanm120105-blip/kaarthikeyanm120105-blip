@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="./images/banner.jpeg" alt="Welcome Banner" width="100%" />
+  <img src="./images/banner.jpeg" alt="Welcome Banner" width="100%" height="250px" />
 </p>
 
 
