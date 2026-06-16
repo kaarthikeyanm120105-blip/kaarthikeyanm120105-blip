@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./images/banner.png" alt="Welcome Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm KAARTHIKEYAN M</h1>
 <h3 align="center">A passionate fron💻 Computer Science graduate from India with a passion for software engineering, innovation, and creating technology that makes a difference.tend developer from India</h3>
 
