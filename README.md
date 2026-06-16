@@ -67,7 +67,7 @@
 </p>
 
 <div align="center">
-  <img src="none" alt="Bottom Line" width="100%" />
+  <img src="./images/gif1.gif" alt="Bottom Line" width="100%" />
 </div>
 
 
